@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://pareshjoshi.me/">
-    <img src="https://pareshjoshi.me/paresh.jpg" alt="Paresh Joshi" width="200" height="200" style="border-radius:50%;">
+   
   </a>
   <h1>
     Hello, I'm Paresh Joshi 👋
