@@ -1,5 +1,7 @@
 <div align="center">
   <a href="https://pareshjoshi.me/">
+
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1759363200&v=beta&t=5pkjh39Wv7OcuVarKJ8REjIuvumry6a6TLs-zjpKAf8" alt="Girl in a jacket" width="500" height="600">
    
   </a>
   <h1>
