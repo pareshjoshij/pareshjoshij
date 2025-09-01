@@ -25,7 +25,7 @@ I am a Software Developer making a dedicated career transition from an extensive
 -   🚀 I'm exploring the exciting world of **Generative AI**, building with tools like **Gemini, Imagen, and Vertex AI**.
 -   👯 I’m looking to collaborate on **freelance projects or open-source opportunities** in web development and AI.
 -   💬 Ask me about **Python, Prompt Design, Web Development**, or my journey of **transitioning into the tech industry**.
--   📫 You can reach me at: **hello@pareshjoshi.me**
+-   📫 You can reach me at: **hello@pareshjoshi.me** , **pareshjoshij@gmail.com**
 
 ---
 
