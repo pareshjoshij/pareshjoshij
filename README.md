@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://pareshjoshi.me/">
 
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1762387200&v=beta&t=FYkGVlA7Iu0rMtGMCXDCEDoe34d7tehTOuCC-MKc7P8" alt="Paresh Joshi" width="500" height="600">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1764201600&v=beta&t=uzxIhdNwfupg3UqLTaCTBwXul86V1m4og4y96xG8cgA" alt="Paresh Joshi" width="500" height="600">
    
   </a>
   <h1>
