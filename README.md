@@ -21,11 +21,29 @@
 
 I am a Software Developer making a dedicated career transition from an extensive background in operations and professional communication. My journey is fueled by a deep curiosity for technology's power to create and solve complex problems.
 
--   🌱 I’m currently deepening my knowledge through my **Computer Science studies at the University of the People**.
--   🚀 I'm exploring the exciting world of **Generative AI**, building with tools like **Gemini, Imagen, and Vertex AI**.
--   👯 I’m looking to collaborate on **freelance projects or open-source opportunities** in web development and AI.
--   💬 Ask me about **Python, Prompt Design, Web Development**, or my journey of **transitioning into the tech industry**.
--   📫 You can reach me at: **hello@pareshjoshi.me** , **pareshjoshij@gmail.com**
+- 🌱 I’m currently deepening my knowledge through my **Computer Science studies at the University of the People**.
+- 🚀 I'm exploring the exciting world of **Generative AI**, building with tools like **Gemini, Imagen, and Vertex AI**.
+- 👯 I’m looking to collaborate on **freelance projects or open-source opportunities** in web development and AI.
+- 💬 Ask me about **Python, Prompt Design, Web Development**, or my journey of **transitioning into the tech industry**.
+- 📫 You can reach me at: **hello@pareshjoshi.me**, **pareshjoshij@gmail.com**
+
+---
+
+### ⭐ Featured Open Source Contributions
+
+Here are some of my impactful contributions to major open-source projects:
+
+- 🐍 **CPython (Python Interpreter)** – Merged PR  
+  https://github.com/python/cpython/pull/141613
+
+- 🔢 **NumPy** – Merged PR  
+  https://github.com/numpy/numpy/pull/30271
+
+- ⚡ **ClickHouse (Yandex/ClickHouse)** – Merged PRs  
+  - https://github.com/ClickHouse/ClickHouse/pull/90338  
+  - https://github.com/ClickHouse/ClickHouse/pull/90474
+
+> 💡 These contributions reflect my work with large-scale, high-performance open-source ecosystems.
 
 ---
 
@@ -61,8 +79,8 @@ I am a Software Developer making a dedicated career transition from an extensive
 
 ### 📝 Latest Blog Posts
 
-- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/) - *July 26, 2025*
-- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/) - *July 25, 2025*
+- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/) – *July 26, 2025*  
+- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/) – *July 25, 2025*
 
 ➡️ [Read More on My Blog](https://pareshjoshi.me/blog/)
 
