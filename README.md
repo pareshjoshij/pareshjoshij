@@ -1,101 +1,78 @@
-<div align="center">
-  <a href="https://pareshjoshi.me/">
+# Hello, I'm Paresh Joshi 👋
 
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1764201600&v=beta&t=uzxIhdNwfupg3UqLTaCTBwXul86V1m4og4y96xG8cgA" alt="Paresh Joshi" width="500" height="600">
-   
-  </a>
-  <h1>
-    Hello, I'm Paresh Joshi 👋
-  </h1>
-  <h3>
-    Software Developer | Python, Web & AI
-  </h3>
-  <p>
-    Building effective applications by blending 7+ years of professional experience with a passion for technology.
-  </p>
-</div>
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1764201600&v=beta&t=uzxIhdNwfupg3UqLTaCTBwXul86V1m4og4y96xG8cgA)
+
+## Software Developer | Python, Web & AI
+Building effective applications by blending 7+ years of professional experience with a passion for technology.
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+I am a Software Developer making a dedicated career transition from an extensive background in operations and professional communication—driven by curiosity and passion for solving complex problems.
 
-I am a Software Developer making a dedicated career transition from an extensive background in operations and professional communication. My journey is fueled by a deep curiosity for technology's power to create and solve complex problems.
-
-- 🌱 I’m currently deepening my knowledge through my **Computer Science studies at the University of the People**.
-- 🚀 I'm exploring the exciting world of **Generative AI**, building with tools like **Gemini, Imagen, and Vertex AI**.
-- 👯 I’m looking to collaborate on **freelance projects or open-source opportunities** in web development and AI.
-- 💬 Ask me about **Python, Prompt Design, Web Development**, or my journey of **transitioning into the tech industry**.
-- 📫 You can reach me at: **hello@pareshjoshi.me**, **pareshjoshij@gmail.com**
+- 🌱 Currently studying **Computer Science at University of the People**
+- 🚀 Learning **Generative AI** with tools like Gemini, Imagen, Vertex AI
+- 👯 Open to collaboration on **freelance projects & open-source contributions**
+- 💬 Ask me about **Python, Web Dev, Prompt Engineering**
+- 📫 Contact: **hello@pareshjoshi.me**, **pareshjoshij@gmail.com**
 
 ---
 
-### ⭐ Featured Open Source Contributions
-
+## ⭐ Featured Open Source Contributions
 Here are some of my impactful contributions to major open-source projects:
 
-- 🐍 **CPython (Python Interpreter)** – Merged PR  
-  https://github.com/python/cpython/pull/141613
+### 🐍 CPython (Python Interpreter)
+- Merged PR: https://github.com/python/cpython/pull/141613
 
-- 🔢 **NumPy** – Merged PR  
-  https://github.com/numpy/numpy/pull/30271
+### 🔢 NumPy
+- Merged PR: https://github.com/numpy/numpy/pull/30271
 
-- ⚡ **ClickHouse (Yandex/ClickHouse)** – Merged PRs  
-  - https://github.com/ClickHouse/ClickHouse/pull/90338  
-  - https://github.com/ClickHouse/ClickHouse/pull/90474
+### ⚡ ClickHouse (High-Performance Database)
+- Merged PR: https://github.com/ClickHouse/ClickHouse/pull/90338  
+- Merged PR: https://github.com/ClickHouse/ClickHouse/pull/90474
 
 > 💡 These contributions reflect my work with large-scale, high-performance open-source ecosystems.
 
 ---
 
-### 🛠️ My Tech Stack
-
+## 🛠️ Tech Stack
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/vertex-ai" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
 </p>
 
 ---
 
-### 📊 My GitHub Stats & Activity
-
-<div align="center">
-  <table>
-    <tr valign="top">
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pareshjoshij&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=3600" alt="Paresh's GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshjoshij&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pareshjoshij&theme=tokyonight&no-frame=true&column=6" />
+</p>
 
 ---
 
-### 📝 Latest Blog Posts
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pareshjoshij&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshjoshij&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/) – *July 26, 2025*  
-- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/) – *July 25, 2025*
+---
+
+## 📝 Latest Blog Posts
+- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/) *(July 26, 2025)*
+- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/) *(July 25, 2025)*
 
 ➡️ [Read More on My Blog](https://pareshjoshi.me/blog/)
 
 ---
 
-### 🌐 Let's Connect
-
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://pareshjoshi.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pareshjoshij/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hello@pareshjoshi.me">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://pareshjoshi.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pareshjoshij/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hello@pareshjoshi.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
