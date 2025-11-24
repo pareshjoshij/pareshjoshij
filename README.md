@@ -2,47 +2,49 @@
 
 ![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1764201600&v=beta&t=uzxIhdNwfupg3UqLTaCTBwXul86V1m4og4y96xG8cgA)
 
-## Software Developer | Python, Web & AI
-Building effective applications by blending 7+ years of professional experience with a passion for technology.
+## Software Developer | Python Core, Systems & AI
+Building robust systems by blending 7+ years of professional experience with a focus on **Core Python Development**, **Concurrency**, and **System Stability**.
 
 ---
 
 ## 👨‍💻 About Me
-I am a Software Developer making a dedicated career transition from an extensive background in operations and professional communication—driven by curiosity and passion for solving complex problems.
+I am a Software Developer making a dedicated career transition from an extensive background in operations—driven by a passion for solving low-level engineering problems.
 
 - 🌱 Currently studying **Computer Science at University of the People**
-- 🚀 Learning **Generative AI** with tools like Gemini, Imagen, Vertex AI
-- 👯 Open to collaboration on **freelance projects & open-source contributions**
-- 💬 Ask me about **Python, Web Dev, Prompt Engineering**
+- 🔭 Focusing on **Python Internals (CPython)**, **No-GIL/Free-Threading**, and **High-Performance Databases**
+- 👯 Open to collaboration on **Open Source & Freelance Projects**
+- 💬 Ask me about **Race Conditions, Memory Optimization, and Python Internals**
 - 📫 Contact: **hello@pareshjoshi.me**, **pareshjoshij@gmail.com**
 
 ---
 
 ## ⭐ Featured Open Source Contributions
-Here are some of my impactful contributions to major open-source projects:
+I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource Exhaustion** issues in major open-source ecosystems.
 
 ### 🐍 CPython (Python Interpreter)
-- Merged PR: https://github.com/python/cpython/pull/141613
+- **[Fix `pdb` line prefix binding (#141779)](https://github.com/python/cpython/pull/141779)**: Resolved a scope binding issue in the Python Debugger (`pdb`), allowing dynamic customization of prompt prefixes.
+- **[Fix `perf` trampoline assertions (#141613)](https://github.com/python/cpython/pull/141613)**: Hardened low-level profiling tests to correctly verify symbol integrity across process forks (Systems Programming).
+
+### 📦 PyPA / Pipx
+- **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation, preventing `MemoryError` crashes on low-RAM devices (Raspberry Pi/CI) by eliminating full-file loading.
+
+### ⚡ ClickHouse (High-Performance C++ DB)
+- **[Fix Hive Race Condition (#90474)](https://github.com/ClickHouse/ClickHouse/pull/90474)**: Migrated `static` extractor storage to `thread_local` to prevent data corruption during concurrent reads from S3/HDFS.
+- **[Fix Thread Leaks & Test Reliability (#90338)](https://github.com/ClickHouse/ClickHouse/pull/90338)**: Eliminated "zombie threads" and environment corruption in the integration test suite.
 
 ### 🔢 NumPy
-- Merged PR: https://github.com/numpy/numpy/pull/30271
-
-### ⚡ ClickHouse (High-Performance Database)
-- Merged PR: https://github.com/ClickHouse/ClickHouse/pull/90338  
-- Merged PR: https://github.com/ClickHouse/ClickHouse/pull/90474
-
-> 💡 These contributions reflect my work with large-scale, high-performance open-source ecosystems.
+- **[Fix Thread Safety in Tests (#30271)](https://github.com/numpy/numpy/pull/30271)**: Resolved race conditions and thread leakage in `test_printoptions` by enforcing proper thread joining logic.
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" width="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML5"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" alt="GCP"/>
 </p>
 
 ---
@@ -63,8 +65,8 @@ Here are some of my impactful contributions to major open-source projects:
 ---
 
 ## 📝 Latest Blog Posts
-- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/) *(July 26, 2025)*
-- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/) *(July 25, 2025)*
+- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/)
+- [The Art of Conversation: My Journey into Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/)
 
 ➡️ [Read More on My Blog](https://pareshjoshi.me/blog/)
 
