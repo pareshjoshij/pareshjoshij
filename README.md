@@ -29,7 +29,7 @@ I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource
 - **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation, preventing `MemoryError` crashes on low-RAM devices (Raspberry Pi/CI) by eliminating full-file loading.
 
 ### ⚡ ClickHouse (High-Performance C++ DB)
-- **[Fix Hive Race Condition (#90474)](https://github.com/ClickHouse/ClickHouse/pull/90474)**: Migrated `static` extractor storage to `thread_local` to prevent data corruption during concurrent reads from S3/HDFS.
+
 - **[Fix Thread Leaks & Test Reliability (#90338)](https://github.com/ClickHouse/ClickHouse/pull/90338)**: Eliminated "zombie threads" and environment corruption in the integration test suite.
 
 ### 🔢 NumPy
