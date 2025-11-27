@@ -25,11 +25,11 @@ I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource
 - **[Fix `pdb` line prefix binding (#141779)](https://github.com/python/cpython/pull/141779)**: Resolved a scope binding issue in the Python Debugger (`pdb`), allowing dynamic customization of prompt prefixes.
 - **[Fix `perf` trampoline assertions (#141613)](https://github.com/python/cpython/pull/141613)**: Hardened low-level profiling tests to correctly verify symbol integrity across process forks (Systems Programming).
 
-### 📦 PyPA / Pipx
-- **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation, preventing `MemoryError` crashes on low-RAM devices (Raspberry Pi/CI) by eliminating full-file loading.
+### 📦 PyPA (Pip & Pipx)
+- **[Fix SVN binary mode on Windows (#13670)](https://github.com/pypa/pip/pull/13670)**: Resolved `UnicodeDecodeError` and newline corruption in `pip` tests by enforcing binary mode (`rb`) file handling, restoring CI stability on Windows.
+- **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation in `pipx`, preventing `MemoryError` crashes on low-RAM devices (Raspberry Pi/CI) by eliminating full-file loading.
 
 ### ⚡ ClickHouse (High-Performance C++ DB)
-
 - **[Fix Thread Leaks & Test Reliability (#90338)](https://github.com/ClickHouse/ClickHouse/pull/90338)**: Eliminated "zombie threads" and environment corruption in the integration test suite.
 
 ### 🔢 NumPy
