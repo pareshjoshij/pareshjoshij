@@ -1,6 +1,6 @@
 # Hello, I'm Paresh Joshi 👋
 
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1764201600&v=beta&t=uzxIhdNwfupg3UqLTaCTBwXul86V1m4og4y96xG8cgA)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1766016000&v=beta&t=gdFpGw1xOQnhu72Byu2bJdiXXA1cm_N3PxHrZWTfUUU)
 
 ## Software Developer | Python Core, Systems & AI
 Building robust systems by blending 7+ years of professional experience with a focus on **Core Python Development**, **Concurrency**, and **System Stability**.
