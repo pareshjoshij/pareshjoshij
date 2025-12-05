@@ -17,7 +17,6 @@ I am a Software Developer making a dedicated career transition from an extensive
 ---
 
 ## ⭐ Featured Open Source Contributions
-I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource Exhaustion** issues in major open-source ecosystems.
 
 ### 🐍 CPython (Python Interpreter)
 - **[Fix `pdb` line prefix binding (#141779)](https://github.com/python/cpython/pull/141779)**: Resolved a scope binding issue in the Python Debugger (`pdb`), allowing dynamic customization of prompt prefixes.
