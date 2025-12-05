@@ -11,9 +11,7 @@ Building robust systems by blending 7+ years of professional experience with a f
 I am a Software Developer making a dedicated career transition from an extensive background in operations—driven by a passion for solving low-level engineering problems.
 
 - 🌱 Currently studying **Computer Science at University of the People**
-- 🔭 Focusing on **Python Internals (CPython)**, **No-GIL/Free-Threading**, and **High-Performance Databases**
 - 👯 Open to collaboration on **Open Source & Freelance Projects**
-- 💬 Ask me about **Race Conditions, Memory Optimization, and Python Internals**
 - 📫 Contact: **hello@pareshjoshi.me**, **pareshjoshij@gmail.com**
 
 ---
@@ -25,6 +23,10 @@ I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource
 - **[Fix `pdb` line prefix binding (#141779)](https://github.com/python/cpython/pull/141779)**: Resolved a scope binding issue in the Python Debugger (`pdb`), allowing dynamic customization of prompt prefixes.
 - **[Fix `perf` trampoline assertions (#141613)](https://github.com/python/cpython/pull/141613)**: Hardened low-level profiling tests to correctly verify symbol integrity across process forks (Systems Programming).
 
+### ✨ Gemini CLI (Google AI)
+- **[Fix Compression Retry Logic (#13002)](https://github.com/google-gemini/gemini-cli/pull/13002)**: Patched a logic flaw in the client compression handler. The fix ensures the `hasFailedCompressionAttempt` flag correctly latches on failure, preventing wasteful API retries and unnecessary token consumption.
+- **[Remove Technical Debt in Tests (#13122)](https://github.com/google-gemini/gemini-cli/pull/13122)**: Cleaned up the test suite by removing obsolete, skipped tests for hierarchical memory loading (functionality migrated to core), improving maintainability and reducing debt.
+
 ### 📦 PyPA (Pip & Pipx)
 - **[Fix SVN binary mode on Windows (#13670)](https://github.com/pypa/pip/pull/13670)**: Resolved `UnicodeDecodeError` and newline corruption in `pip` tests by enforcing binary mode (`rb`) file handling, restoring CI stability on Windows.
 - **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation in `pipx`, preventing `MemoryError` crashes on low-RAM devices (Raspberry Pi/CI) by eliminating full-file loading.
@@ -32,8 +34,10 @@ I specialize in fixing **Concurrency Bugs**, **Race Conditions**, and **Resource
 ### ⚡ ClickHouse (High-Performance C++ DB)
 - **[Fix Thread Leaks & Test Reliability (#90338)](https://github.com/ClickHouse/ClickHouse/pull/90338)**: Eliminated "zombie threads" and environment corruption in the integration test suite.
 
-### 🔢 NumPy
+### 🔢 NumPy & Scientific Ecosystem
 - **[Fix Thread Safety in Tests (#30271)](https://github.com/numpy/numpy/pull/30271)**: Resolved race conditions and thread leakage in `test_printoptions` by enforcing proper thread joining logic.
+- **[Precise Typing for `einsum_path` (#746)](https://github.com/numpy/numtype/pull/746)**: Implemented precise type annotations for `np.einsum_path` return values (NumPy Stubs), validating changes with static analysis (Mypy) to ensure correctness.
+- **[Fix CLI Argument Parsing (#748)](https://github.com/numpy/numtype/pull/748)**: Corrected CLI argument handling in build tools to match documentation, removing redundant flags (`-f`) and streamlining the execution workflow.
 
 ---
 
