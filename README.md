@@ -12,6 +12,15 @@ I am a software developer with a background in operations, currently completing 
 
 ---
 
+[![Paresh Joshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pareshjoshij&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="RIght">
+  
+ [![paresh's Stri](https://streak-stats.demolab.com?user=pareshjoshij&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
+
+</p>
+
+
 ## 🛠 Open Source Contributions
 
 ### 🐍 CPython (Python Interpreter)
@@ -50,7 +59,3 @@ I am a software developer with a background in operations, currently completing 
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pareshjoshij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pareshjoshij&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
