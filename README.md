@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1766016000&v=beta&t=gdFpGw1xOQnhu72Byu2bJdiXXA1cm_N3PxHrZWTfUUU)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHJUwMEX5kSpw/profile-displaybackgroundimage-shrink_350_1400/B4EZj.7D63HgAY-/0/1756623553817?e=1769644800&v=beta&t=lTkpfD9lNNfO8UPkxxOAPjjMPo76TWuFzb7ZSXlmNZo)
 
 # Paresh Joshi
 
