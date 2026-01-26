@@ -14,11 +14,6 @@ I am a software developer with a background in operations, currently completing 
 
 [![Paresh Joshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pareshjoshij&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="RIght">
-  
- [![paresh's Stri](https://streak-stats.demolab.com?user=pareshjoshij&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats)
-
-</p>
 
 
 ## 🛠 Open Source Contributions
@@ -43,6 +38,12 @@ I am a software developer with a background in operations, currently completing 
 - **[Fix Thread Safety in Tests (#30271)](https://github.com/numpy/numpy/pull/30271)**: Resolved race conditions in `test_printoptions` by enforcing proper thread joining.
 - **[NumPy Stubs: Precise Typing (#746)](https://github.com/numpy/numtype/pull/746)**: Implemented precise type annotations for `np.einsum_path` return values, validated via static analysis.
 
+### 🗓️ Vacanza (Python Holidays Library)
+- **[Optimize Archiver Script Tooling (#3221)](https://github.com/vacanza/holidays/pull/3221)**: Improved the internal `archive_links.py` maintenance script by adding an optional `path` parameter. This allows maintainers to scan specific country files rather than the entire repository, significantly reducing execution time.
+- **[Feature: Bombay Stock Exchange Support (#3170)](https://github.com/vacanza/holidays/pull/3170)**: Implemented support for the Bombay Stock Exchange (BSE). Designed the solution using class inheritance from `NationalStockExchangeOfIndia` to strictly adhere to DRY principles.
+- **[Localization: Gujarati Language Support (#3130, #3143)](https://github.com/vacanza/holidays/pull/3130)**: Led the implementation of Gujarati (`gu`) localization for both the Indian National holidays and the National Stock Exchange (NSE). Created translation files and comprehensive unit tests.
+- **[Bug Fix: Holiday Data Accuracy (#3124)](https://github.com/vacanza/holidays/pull/3124)**: Corrected calculation logic and dates for *Maharana Pratap Jayanti* (Rajasthan) and *Bathukamma* (Telangana) to ensure historical and future accuracy.
+
 ---
 
 ## 💻 Tech Stack
@@ -56,6 +57,3 @@ I am a software developer with a background in operations, currently completing 
 ## 📝 Recent Writing
 - [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/)
 - [The Art of Conversation: Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/)
-
----
-
