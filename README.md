@@ -6,15 +6,19 @@
 
 I am a software developer with a background in operations, currently completing my Computer Science degree at the University of the People. My focus is on **Systems Programming**, **Core Python Development**, and **Tooling Stability**. I enjoy solving low-level engineering problems and contributing to open source ecosystems.
 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paresh_Joshi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pareshjoshij/)
 [![Email](https://img.shields.io/badge/Email-hello@pareshjoshi.me-D14836?style=flat-square&logo=gmail)](mailto:hello@pareshjoshi.me)
 [![Portfolio](https://img.shields.io/badge/Website-pareshjoshi.me-black?style=flat-square)](https://pareshjoshi.me/)
-
 ---
 
-[![Paresh Joshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pareshjoshij&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
+---
+<a href="https://github.com/sponsors/pareshjoshij">
+<img width="1050" height="293" alt="sponser1" src="https://github.com/user-attachments/assets/0d08076f-471f-47d6-9f7c-0f5818c725ef" />
+<a/>
+  
+---
 
 ## 🛠 Open Source Contributions
 
@@ -54,6 +58,9 @@ I am a software developer with a background in operations, currently completing 
 
 ---
 
-## 📝 Recent Writing
-- [From Theory to Reality: My First Steps Building with Gemini and Imagen](https://pareshjoshi.me/blog/from-theory-to-reality-my-first-steps-building-with-gemini-and-imagen/)
-- [The Art of Conversation: Prompt Design with Vertex AI](https://pareshjoshi.me/blog/the-art-of-conversation-my-journey-into-prompt-design-with-vertex-ai/)
+<div align="center">
+  <a href="https://github.com/sponsors/pareshjoshij">
+    <img src="https://img.shields.io/badge/Sponsor-pareshjoshij-EA4AAA?style=for-the-badge&logo=github" alt="Sponsor">
+  </a>
+</div>
+
