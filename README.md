@@ -5,7 +5,7 @@
   
 ---
 
-# Paresh Joshi
+# Paresh Joshi 🦅
 
 **Software Developer | Python Core, Systems & AI**
 
