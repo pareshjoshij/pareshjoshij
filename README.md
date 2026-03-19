@@ -1,7 +1,7 @@
 ---
 ![banner](https://github.com/user-attachments/assets/7052c566-185e-4d23-b0c0-17ea0222cb24)
 
-  
+  
 ---
 
 # Paresh Joshi 🦅
@@ -21,7 +21,7 @@ I am a software developer with a background in operations, currently completing 
 <a href="https://github.com/sponsors/pareshjoshij">
 <img width="1050" height="293" alt="sponser1" src="https://github.com/user-attachments/assets/0d08076f-471f-47d6-9f7c-0f5818c725ef" />
 <a/>
-  
+  
 ---
 
 ## 🛠 Open Source Contributions
@@ -36,6 +36,7 @@ I am a software developer with a background in operations, currently completing 
 - **[Refactor Test Suite (#13122)](https://github.com/google-gemini/gemini-cli/pull/13122)**: Removed technical debt by cleaning up obsolete tests for migrated memory loading functionality.
 
 ### 📦 PyPA (Pip & Pipx)
+- **[Fix Flaky Animation Tests (#1697)](https://github.com/pypa/pipx/pull/1697)**: Replaced rigid `time.sleep()` synchronization with a deterministic polling loop using `default_timer()`. This eliminated race conditions on slow CI runners and significantly sped up local test execution.
 - **[Fix SVN binary mode on Windows (#13670)](https://github.com/pypa/pip/pull/13670)**: Enforced binary mode (`rb`) file handling to resolve `UnicodeDecodeError` and newline corruption in `pip` tests on Windows.
 - **[Optimize memory usage in checksums (#1692)](https://github.com/pypa/pipx/pull/1692)**: Implemented chunked streaming for archive validation in `pipx`, preventing `MemoryError` crashes on low-RAM devices (e.g., Raspberry Pi).
 
@@ -64,8 +65,7 @@ I am a software developer with a background in operations, currently completing 
 ---
 
 <div align="center">
-  <a href="https://github.com/sponsors/pareshjoshij">
-    <img src="https://img.shields.io/badge/Sponsor-pareshjoshij-EA4AAA?style=for-the-badge&logo=github" alt="Sponsor">
-  </a>
+  <a href="https://github.com/sponsors/pareshjoshij">
+    <img src="https://img.shields.io/badge/Sponsor-pareshjoshij-EA4AAA?style=for-the-badge&logo=github" alt="Sponsor">
+  </a>
 </div>
-
