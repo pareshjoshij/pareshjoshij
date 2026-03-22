@@ -24,6 +24,7 @@ I am a software developer with a background in operations, currently completing 
 
 ### 🗓️ Vacanza (Python Holidays Library)
 **Interactive `.ics` Calendar Download Portal ([Issue](https://github.com/vacanza/holidays/pull/3282) / [PR](https://github.com/vacanza/holidays/issues/3168))** For my Winter of Code task, I architected and implemented a fully functional web portal allowing non-technical users to filter, preview, and download customized `.ics` holiday calendars. 
+<img width="1091" height="599" alt="downloadportal" src="https://github.com/user-attachments/assets/beb5a539-4394-4bdc-aea7-6b2854ebf188" />
 
 **The Challenge:** Generating localized calendars for all supported countries, financial markets, subdivisions, and categories across a 20-year span (2015–2035) resulted in **~55,000+ files and 9,000+ directories**. Committing this to the repository would cause massive bloat and exhaust Read the Docs (RTD) build resources.
 
