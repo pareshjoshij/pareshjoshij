@@ -6,7 +6,7 @@
 
 **Software Developer | Python Core, Systems & AI**
 
-I am a software developer with a background in operations, currently completing my Computer Science degree at the University of the People. My focus is on **Systems Programming**, **Core Python Development**, and **Tooling Stability**. I enjoy solving low-level engineering problems and contributing to open-source ecosystems.
+Software Developer specializing in **Systems Programming**, **Core Python Development**, and **Tooling Stability**. With a background in operations and active contributions to CPython, PyPA, and NumPy, I focus on solving low-level engineering bottlenecks and building high-performance open-source tools. I am currently completing my Computer Science degree at the University of the People.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paresh_Joshi-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pareshjoshij/)
 [![Email](https://img.shields.io/badge/Email-hello@pareshjoshi.me-D14836?style=flat-square&logo=gmail)](mailto:hello@pareshjoshi.me)
@@ -15,7 +15,7 @@ I am a software developer with a background in operations, currently completing 
 ---
 
 <a href="https://github.com/sponsors/pareshjoshij">
-<img width="1050" height="293" alt="sponser1" src="https://github.com/user-attachments/assets/0d08076f-471f-47d6-9f7c-0f5818c725ef" />
+<img width="1050" height="293" alt="sponsor1" src="https://github.com/user-attachments/assets/0d08076f-471f-47d6-9f7c-0f5818c725ef" />
 </a>
 
 ---
@@ -24,16 +24,16 @@ I am a software developer with a background in operations, currently completing 
 
 ### 🗓️ Vacanza (Python Holidays Library)
 **Interactive `.ics` Calendar Download Portal ([Issue](https://github.com/vacanza/holidays/pull/3282) / [PR](https://github.com/vacanza/holidays/issues/3168))** For my Winter of Code task, I architected and implemented a fully functional web portal allowing non-technical users to filter, preview, and download customized `.ics` holiday calendars. 
+
 <img width="1091" height="599" alt="downloadportal" src="https://github.com/user-attachments/assets/beb5a539-4394-4bdc-aea7-6b2854ebf188" />
 
 **The Challenge:** Generating localized calendars for all supported countries, financial markets, subdivisions, and categories across a 20-year span (2015–2035) resulted in **~55,000+ files and 9,000+ directories**. Committing this to the repository would cause massive bloat and exhaust Read the Docs (RTD) build resources.
 
 **My Solution & Technical Implementations:**
 * **CI/CD Artifact Injection:** Designed a GitHub Actions pipeline (`deploy-gh-pages.yml`) that dynamically generates the 55k+ files on-the-fly *only* during deployment, hosting the portal entirely on **GitHub Pages** to keep the main source tree clean.
-
 * **High-Performance Python Generator:** Engineered `generate_site_assets.py` utilizing `ProcessPoolExecutor` to parallelize the heavy lifting of building `.ics` files and lightweight `.json` previews.
-  
 * **Client-Side Assembly (Alpine.js):** Built a responsive frontend that fetches the lightweight JSON for instant UI previews. When a user requests a download, the JS merges the selected categories and dynamically stitches the final `.ics` blob directly in the browser.
+
 ---
 
 ## 🛠 Open Source Contributions
@@ -69,9 +69,9 @@ I am a software developer with a background in operations, currently completing 
 
 ## 💻 Tech Stack
 
-* **Languages:** Python, C++, JavaScript
-* **Systems:** Git, Linux, Docker, Google Cloud Platform
-* **Interests:** Concurrency, Interpreters, Distributed Systems
+* **Languages & Core:** Python (CPython internals, ProcessPoolExecutor), C++, JavaScript (Alpine.js)
+* **Systems & DevOps:** Git, Linux, Docker, Google Cloud Platform, GitHub Actions, CI/CD Pipelines
+* **Interests:** Concurrency / Multi-threading, Interpreters, Distributed Systems, Low-level Profiling
 
 ---
 
