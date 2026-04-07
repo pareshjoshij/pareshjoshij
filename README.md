@@ -23,7 +23,7 @@ Software Developer specializing in **Systems Programming**, **Core Python Develo
 ## ❄️ Winter of Code (WoC 2026) Featured Project
 
 ### 🗓️ Vacanza (Python Holidays Library)
-**Interactive `.ics` Calendar Download Portal ([Issue](https://github.com/vacanza/holidays/issues/3168) / [PR](https://github.com/vacanza/holidays/pull/3282))** For my Winter of Code task, I architected and implemented a fully functional web portal allowing non-technical users to filter, preview, and download customized `.ics` holiday calendars. 
+**Interactive `.ics` Calendar [Download Portal](https://holidays.readthedocs.io/en/latest/downloads/) ([Issue](https://github.com/vacanza/holidays/issues/3168) / [PR](https://github.com/vacanza/holidays/pull/3282))** For my Winter of Code task, I architected and implemented a fully functional web portal allowing non-technical users to filter, preview, and download customized `.ics` holiday calendars. 
 
 <img width="1091" height="599" alt="downloadportal" src="https://github.com/user-attachments/assets/beb5a539-4394-4bdc-aea7-6b2854ebf188" />
 
